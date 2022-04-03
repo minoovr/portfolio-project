@@ -1,9 +1,15 @@
-h1 {
-  color: black;
-  font-family: "Playfair Display", serif;
-  font-weight: bold;
+.hero {
+  background-image: url("anatomy-head.jpg");
+  background-color: #ebcfae;
+  text-align: center;
 }
-p {
-  font-family: "Poppins", sans-serif;
-  font-weight: normal;
+.hero h1 {
+  font-family: "Nunito", sans-serif;
+  font-size: 72px;
+  font-weight: 700, bold;
+}
+.hero h2 {
+  font-family: "Nunito", sans-serif;
+  font-size: 24px;
+  font-weight: 700, bold;
 }
