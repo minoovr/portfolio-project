@@ -1,15 +1,28 @@
 .hero {
-  background-image: url("anatomy-head.jpg");
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(0, 0, 0, 0.2) 100%
+    ),
+    url("anatomy-head.jpg");
+  position: absolute;
+  width: 1440px;
+  height: 265px;
+  top: 135px;
   background-color: #ebcfae;
   text-align: center;
 }
 .hero h1 {
+  color: white;
   font-family: "Nunito", sans-serif;
   font-size: 72px;
   font-weight: 700, bold;
+  margin-top: 47px;
 }
 .hero h2 {
+  color: white;
   font-family: "Nunito", sans-serif;
   font-size: 24px;
   font-weight: 700, bold;
+  margin-top: 14px;
 }
