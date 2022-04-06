@@ -4,7 +4,7 @@
       rgba(0, 0, 0, 0.5) 0%,
       rgba(0, 0, 0, 0.2) 100%
     ),
-    url("anatomy-head.jpg");
+    url("overlay.png");
   position: absolute;
   width: 1440px;
   height: 265px;
@@ -25,4 +25,18 @@
   font-size: 24px;
   font-weight: 700, bold;
   margin-top: 14px;
+}
+
+.food-title {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700, bold;
+  font-size: 28px;
+  line-height: 38.19px;
+}
+img {
+  position: static;
+  width: 560px;
+  height: 350px;
+  left: 0px;
+  top: 0px;
 }
