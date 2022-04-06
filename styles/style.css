@@ -33,6 +33,10 @@
   font-size: 28px;
   line-height: 38.19px;
 }
+.photos {
+  margin-top: 500px;
+}
+
 img {
   position: static;
   width: 560px;
