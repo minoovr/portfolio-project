@@ -142,3 +142,11 @@ hr {
 .method {
   padding: 40px 350px 40px 350px;
 }
+
+.contact-ways h2 {
+  font-family: "Nunito", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 24.55px;
+  color: darkviolet;
+}
