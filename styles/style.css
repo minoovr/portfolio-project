@@ -17,7 +17,7 @@
   color: white;
   font-family: "Nunito", sans-serif;
   font-size: 72px;
-  font-weight: 700, bold;
+  font-weight: 700;
   margin-top: 47px;
   padding-top: 47px;
 }
@@ -25,13 +25,13 @@
   color: white;
   font-family: "Nunito", sans-serif;
   font-size: 24px;
-  font-weight: 700, bold;
+  font-weight: 700;
   margin-top: 14px;
 }
 
 .food-title {
   font-family: "Nunito", sans-serif;
-  font-weight: 700, bold;
+  font-weight: 700;
   font-size: 28px;
   line-height: 38.19px;
 }
@@ -66,7 +66,7 @@ img {
 }
 .about-head h1 {
   font-family: "Nunito", sans-serif;
-  font-weight: 700, bold;
+  font-weight: 700;
   font-size: 72px;
   line-height: 98.21px;
   text-align: center;
@@ -74,7 +74,7 @@ img {
 
 .about-head h2 {
   font-family: "Nunito", sans-serif;
-  font-weight: 700, bold;
+  font-weight: 700;
   font-size: 64px;
   line-height: 87.3px;
 }
@@ -114,7 +114,7 @@ i {
 
 .recipe-collection {
   font-family: "Nunito", sans-serif;
-  font-weight: 700, bold;
+  font-weight: 700;
   font-size: 36px;
   line-height: 49.1px;
 }
@@ -126,7 +126,7 @@ hr {
 
 .step {
   font-family: "Nunito", sans-serif;
-  font-weight: 800, bolder;
+  font-weight: 800;
   font-size: 18px;
   line-height: 24.55px;
   color: #f65282;
@@ -134,7 +134,7 @@ hr {
 
 .recipe-title {
   font-family: "Nunito", sans-serif;
-  font-weight: 700, bolder;
+  font-weight: 700;
   font-size: 24px;
   line-height: 33px;
 }
