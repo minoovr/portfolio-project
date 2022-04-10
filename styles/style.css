@@ -6,7 +6,7 @@
     ),
     url("overlay.png");
 
-  width: 1440px;
+  max-width: 100%;
   height: 265px;
   top: 135px;
   background-color: #ebcfae;
@@ -149,4 +149,40 @@ hr {
   font-size: 18px;
   line-height: 24.55px;
   color: darkviolet;
+}
+
+nav {
+  padding-top: 40px;
+}
+.container p {
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 0rem;
+  color: #272044;
+}
+ul {
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  list-style-type: none;
+  font-size: 16px;
+  line-height: 21.82px;
+  margin-left: 850px;
+  margin-top: 0px;
+}
+
+li {
+  display: inline;
+  margin-left: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #272044;
+  padding-left: 15px;
+}
+
+.active {
+  color: violet;
 }
