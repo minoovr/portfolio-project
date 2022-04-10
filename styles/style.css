@@ -106,3 +106,39 @@ img {
 i {
   padding-left: 30px;
 }
+
+.collection-img {
+  top: 70px;
+  width: 760px;
+}
+
+.recipe-collection {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700, bold;
+  font-size: 36px;
+  line-height: 49.1px;
+}
+hr {
+  color: turquoise;
+  border-width: 1px;
+  border-style: dashed;
+}
+
+.step {
+  font-family: "Nunito", sans-serif;
+  font-weight: 800, bolder;
+  font-size: 18px;
+  line-height: 24.55px;
+  color: #f65282;
+}
+
+.recipe-title {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700, bolder;
+  font-size: 24px;
+  line-height: 33px;
+}
+
+.method {
+  padding: 40px 350px 40px 350px;
+}
