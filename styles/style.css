@@ -154,7 +154,7 @@ hr {
 nav {
   padding-top: 40px;
 }
-.container p {
+.ingredients {
   font-family: "Nunito", sans-serif;
   font-weight: 300;
   font-size: 18px;
@@ -185,4 +185,25 @@ a {
 
 .active {
   color: violet;
+}
+
+.logo {
+  font-family: "Nunito", sans-serif;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 0rem;
+  color: #272044;
+}
+.rights {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18.75px;
+  text-align: right;
+  margin-top: 10px;
+}
+footer {
+  background-color: #f9f7fe;
+  padding: 20px;
 }
