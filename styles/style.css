@@ -156,8 +156,8 @@ nav {
 }
 .container p {
   font-family: "Nunito", sans-serif;
-  font-weight: bold;
-  font-size: 22px;
+  font-weight: 300;
+  font-size: 18px;
   line-height: 30px;
   margin-bottom: 0rem;
   color: #272044;
