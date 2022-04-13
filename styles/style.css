@@ -47,67 +47,6 @@ img {
   top: 0px;
 }
 
-@media (max-width: 600px) {
-  .logo {
-    padding: 0px 0px 0px 50px;
-  }
-  .logo ul {
-    font-size: 16px;
-    margin-left: 0;
-    padding-left: 0;
-  }
-
-  li {
-    display: inline;
-    margin-left: 0px;
-  }
-  .hero {
-    width: 600px;
-    height: 130spx;
-    top: 135px;
-    background-color: #ebcfae;
-    text-align: center;
-  }
-  .hero h1 {
-    padding-top: 65px;
-    font-size: 30px;
-    font-weight: bolder;
-  }
-  .hero h2 {
-    font-size: 20px;
-  }
-  .food-title {
-    text-align: center;
-  }
-
-  .method {
-    padding: 30px 0px 30px 0px;
-  }
-
-  .recipe-title {
-    display: nones;
-  }
-  .about-head h2 {
-    margin-left: 40px;
-  }
-  .about-head img {
-    display: block;
-    margin: 0 auto;
-  }
-  .rights {
-    display: none;
-  }
-  .footer-logo {
-    display: flex;
-    justify-content: center;
-    padding-left: 50px;
-  }
-  .footer-icons {
-    display: flex;
-    justify-content: center;
-  }
-}
-
 .about-head h1 {
   font-family: "Nunito", sans-serif;
   font-weight: 700;
@@ -253,4 +192,70 @@ a {
 footer {
   background-color: #f9f7fe;
   padding: 20px;
+}
+@media (max-width: 600px) {
+  .logo {
+    padding: 0px 0px 0px 20px;
+  }
+  .logo ul {
+    font-size: 16px;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .logo a {
+    padding-left: 0px;
+  }
+  li {
+    display: inline;
+    margin-left: 0px;
+  }
+  .head-container {
+    padding: 0px;
+  }
+  .hero {
+    width: 600px;
+    height: 130spx;
+    top: 135px;
+    background-color: #ebcfae;
+    text-align: center;
+  }
+  .hero h1 {
+    padding-top: 65px;
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  .hero h2 {
+    font-size: 20px;
+  }
+  .food-title {
+    text-align: center;
+  }
+
+  .method {
+    padding: 30px 0px 30px 0px;
+  }
+
+  .recipe-title {
+    display: none;
+  }
+  .about-head h2 {
+    margin-left: 40px;
+  }
+  .about-head img {
+    display: block;
+    margin: 0 auto;
+  }
+  .rights {
+    display: none;
+  }
+  .footer-logo {
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+  }
+  .footer-icons {
+    display: flex;
+    justify-content: center;
+  }
 }
