@@ -208,13 +208,13 @@ ul {
   list-style-type: none;
   font-size: 16px;
   line-height: 21.82px;
-  margin-left: 850px;
+  margin-left: 80px;
   margin-top: 0px;
 }
 
 li {
   display: inline;
-  margin-left: 10px;
+  margin-left: 0px;
 }
 
 a {
